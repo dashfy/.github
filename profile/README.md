@@ -11,7 +11,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://demo.dashfy.dev">Demo</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://docs.dashfy.dev">Docs</a>
+  <a href="https://dashfy.dev/docs">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/orgs/dashfy/projects/1">Roadmap</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
