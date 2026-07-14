@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dashfy.dev">
-    <img src="https://github.com/user-attachments/assets/cc17ee84-990e-4285-88db-605ed00fb7ce" alt="Dashfy Banner">
+    <img src="https://raw.githubusercontent.com/dashfy/dashfy-brand/refs/heads/main/dashfy-promo_02.png" alt="Dashfy Banner">
   </a>
 </p>
 
